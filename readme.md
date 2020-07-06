@@ -4,7 +4,8 @@
 
 Youtube clone cording with vanilla JS, pug, sass, expressJS, nodeJS
 
-`|-- CODESBYLEEJAEBAE
+```
+|-- CODESBYLEEJAEBAE
     |-- .gitignore
     |-- directoryList.md
     |-- package.json
@@ -16,4 +17,5 @@ Youtube clone cording with vanilla JS, pug, sass, expressJS, nodeJS
         |-- controller
         |-- model
         |-- router
-        |-- view`
+        |-- view
+```
