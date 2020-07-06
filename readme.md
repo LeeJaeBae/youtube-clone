@@ -16,11 +16,15 @@ Youtube clone cording with vanilla JS, pug, sass, expressJS, nodeJS
         |-- app.js
         |-- init.js
         |-- controller
+        |   |-- userController.js
+        |   |-- videoController.js
         |-- model
         |-- routers
         |   |-- globalRouter.js
+        |   |-- routes.js
         |   |-- userRouter.js
         |   |-- videoRouter.js
         |-- view
+
 
 ```
