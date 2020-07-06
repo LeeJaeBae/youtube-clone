@@ -1,0 +1,10 @@
+{
+	"name": "youtube-clone",
+	"version": "1.0.0",
+	"description": "youtube clone",
+	"main": "index.js",
+	"repository": "https://github.com/LeeJaeBae/youtube-clone",
+	"author": "LeeJaeBae",
+	"license": "MIT",
+	"private": false
+}
