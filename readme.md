@@ -5,7 +5,7 @@
 Youtube clone cording with vanilla JS, pug, sass, expressJS, nodeJS
 
 ```
-|-- CODESBYLEEJAEBAE
+|-- YOUTUBE-CLONE
     |-- .gitignore
     |-- directoryList.md
     |-- package.json
