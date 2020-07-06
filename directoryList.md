@@ -1,5 +1,6 @@
 |-- CODESBYLEEJAEBAE
     |-- .gitignore
+    |-- .prettierignore
     |-- directoryList.md
     |-- package.json
     |-- readme.md
@@ -9,5 +10,8 @@
         |-- init.js
         |-- controller
         |-- model
-        |-- router
+        |-- routers
+        |   |-- globalRouter.js
+        |   |-- userRouter.js
+        |   |-- videoRouter.js
         |-- view
