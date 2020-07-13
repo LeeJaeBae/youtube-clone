@@ -2,3 +2,9 @@
 extends layouts/main.pug
 
 block content
+    .form-container
+        form(action=`/videos${routes.editVideo}`, method="post")
+            input(type='text', palceholder="Title", name="title")
+            textarea(name="description", palceholder="Description")
+            input(type="submit", value="Update Video")
+        a.form-container__ling.form-container__lint--delete(href=`/videos${routes.deleteVideo}`) Delete Video
